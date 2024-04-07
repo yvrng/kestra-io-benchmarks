@@ -1,0 +1,168 @@
+{
+  "firstName" : "John",
+  "lastName" : "Doe",
+  "birthDate" : "1997-04-20",
+  "nationality" : "FR",
+  "biography" : "Laboriosam impedit libero asperiores dolor dolor enim accusantium.Odit aut sint molestias aliquid suscipit dolor.Aspernatur quidem debitis consequatur sint enim.Sed modi laboriosam.Natus qui qui iste dolorem.Dignissimos totam et non velit impedit.Dolorem qui a ut est est vel.Sequi eum et.Ut quibusdam impedit culpa.Autem sit qui ratione molestiae quia.Quae dolor dolor neque numquam consectetur.Voluptatem exercitationem enim ipsum itaque nam corporis et.Asperiores totam aspernatur veniam.Nobis et reprehenderit.Ipsa quae non eveniet sunt quas odio.Minima vel consequatur excepturi minima natus.Iste saepe adipisci sapiente iste ipsam nihil.Velit et optio ducimus id consequatur.Voluptatem et deleniti odit ab reprehenderit et quis.Aspernatur incidunt ut.Eos ad distinctio voluptatem et voluptatem.Aut quia perferendis facilis praesentium.Omnis dolor sequi in.Est veniam et dolo",
+  "books" : [ {
+    "isbn" : "9780047459450",
+    "title" : "The Sun Also Rises",
+    "publicationYear" : 2002,
+    "genres" : [ "Narrative nonfiction" ],
+    "summary" : "Dicta provident fugit ex et doloribus.Corrupti soluta in eos magnam sed et.Enim non necessitatibus dolore sint iure.Optio quisquam eaque deserunt id expedita ipsam ipsam.Dolorem illo accusantium.Quam ad ullam aut eligendi possimus.Aut lauda",
+    "rating" : 0.2,
+    "pageNumber" : 473
+  }, {
+    "isbn" : "9790894598851",
+    "title" : "The Line of Beauty",
+    "publicationYear" : 2011,
+    "genres" : [ "Fiction in verse" ],
+    "summary" : "Maiores nihil similique.Eos iure qui.Quia neque quia ea dolore ipsa ut voluptatem.Rerum atque ad.In quidem officia officia non aut.Totam nihil laborum qui qui dolorem minus dolores.Voluptatem perspiciatis consequatur beatae accusantium.Ad a",
+    "rating" : 1.8,
+    "pageNumber" : 405
+  }, {
+    "isbn" : "9791908384835",
+    "title" : "The Skull Beneath the Skin",
+    "publicationYear" : 2012,
+    "genres" : [ "Historical fiction", "Textbook" ],
+    "summary" : "Et mollitia ut animi fuga.Dolorum quia dicta impedit id.Aut cumque debitis similique eveniet debitis ipsum expedita.Enim neque atque libero corporis.Maxime est quod quos.Consequatur itaque quia iure commodi.Libero ut aut.Et rem quia illum e",
+    "rating" : 0.9,
+    "pageNumber" : 322
+  }, {
+    "isbn" : "9790995073578",
+    "title" : "In Dubious Battle",
+    "publicationYear" : 2002,
+    "genres" : [ "Biography/Autobiography" ],
+    "summary" : "Rerum vero quos hic perspiciatis expedita odit.Quos a dolores.Voluptas nobis autem sed dolore et.Vero architecto hic qui quo.Laborum eum eum sequi omnis et.Ut non deserunt error nihil totam ad ducimus.Recusandae repellat voluptatem.Nesciunt",
+    "rating" : 0.8,
+    "pageNumber" : 694
+  }, {
+    "isbn" : "9790934512748",
+    "title" : "The Mirror Crack'd from Side to Side",
+    "publicationYear" : 2001,
+    "genres" : [ "Textbook" ],
+    "summary" : "Similique et et ut.Et reprehenderit aut quia.Sed voluptas asperiores.Dolor aut ab quo explicabo consequatur.Dolorum qui a dicta fuga qui repellendus autem.Consequatur voluptatem laborum a sint ad voluptatem et.Odio voluptatibus qui blanditi",
+    "rating" : 2.8,
+    "pageNumber" : 740
+  }, {
+    "isbn" : "9781722730727",
+    "title" : "The Wives of Bath",
+    "publicationYear" : 2006,
+    "genres" : [ "Classic" ],
+    "summary" : "Ea odit voluptatem sunt est et consequatur.Eligendi placeat ut at.Qui voluptatem dicta vero porro enim beatae.Expedita mollitia natus nobis voluptatem rem vel aut.Placeat sed cupiditate qui sapiente asperiores.Est et in autem.Ut aperiam mag",
+    "rating" : 4.4,
+    "pageNumber" : 673
+  }, {
+    "isbn" : "9780706937138",
+    "title" : "The Wives of Bath",
+    "publicationYear" : 2008,
+    "genres" : [ "Speech" ],
+    "summary" : "Perspiciatis sint neque.Quasi dignissimos aperiam deserunt nesciunt tempore facere et.Magnam qui modi dicta illum quisquam voluptatem.Cum dignissimos ipsum vero natus voluptatibus alias.Quis distinctio asperiores et vel ut.Corrupti non reru",
+    "rating" : 3.5,
+    "pageNumber" : 834
+  }, {
+    "isbn" : "9791845466465",
+    "title" : "Such, Such Were the Joys",
+    "publicationYear" : 2010,
+    "genres" : [ "Historical fiction" ],
+    "summary" : "Aut sequi quod ex in ullam nobis qui.Dolore ut molestiae consequatur voluptatum omnis maxime.Quod qui quos unde aut nulla similique sed.Enim maxime reiciendis.Similique incidunt consequatur adipisci.Est eum fugiat.Quis veritatis error.Accus",
+    "rating" : 4.4,
+    "pageNumber" : 833
+  }, {
+    "isbn" : "9791874209613",
+    "title" : "A Glass of Blessings",
+    "publicationYear" : 2019,
+    "genres" : [ "Metafiction", "Crime/Detective" ],
+    "summary" : "Quia neque et ad.Et quia ratione consequatur eveniet blanditiis commodi.Et quia occaecati eaque modi quasi et.Aut magnam officiis ad.Esse distinctio impedit praesentium amet.Ipsa nisi ut tempore doloremque illum ex quibusdam.Nisi cum commod",
+    "rating" : 2.3,
+    "pageNumber" : 988
+  }, {
+    "isbn" : "9780968225691",
+    "title" : "To Say Nothing of the Dog",
+    "publicationYear" : 2016,
+    "genres" : [ "Crime/Detective", "Textbook" ],
+    "summary" : "Dolorem quia labore suscipit dolorem architecto magnam ea.Voluptatibus placeat eius quis iusto sequi.Ipsam sint voluptatem.Aut maiores a mollitia voluptate error non rerum.Doloremque impedit voluptatem est.Quia enim quas aut voluptas est al",
+    "rating" : 0.2,
+    "pageNumber" : 272
+  }, {
+    "isbn" : "9780634485626",
+    "title" : "Those Barren Leaves, Thrones, Dominations",
+    "publicationYear" : 2003,
+    "genres" : [ "Fiction narrative" ],
+    "summary" : "Quia maxime illo nihil.Expedita minima vel inventore quos sit.Praesentium ut quisquam corporis in.Aut alias et.Corrupti sequi culpa id natus esse.Exercitationem quo quia numquam soluta optio dignissimos.Et laboriosam praesentium consectetur",
+    "rating" : 1.0,
+    "pageNumber" : 704
+  }, {
+    "isbn" : "9781788869836",
+    "title" : "Consider the Lilies",
+    "publicationYear" : 2004,
+    "genres" : [ "Fanfiction" ],
+    "summary" : "Est nam sit aut.Harum dolores ex sed accusamus.Veniam vel quam et laborum voluptatem corrupti.Nemo sequi ducimus beatae libero consequatur.Ab aut saepe.Tempora rerum maxime.Veritatis provident eum maiores.Aut voluptatem natus dolor harum at",
+    "rating" : 3.4,
+    "pageNumber" : 962
+  }, {
+    "isbn" : "9791943285807",
+    "title" : "That Good Night",
+    "publicationYear" : 2014,
+    "genres" : [ "Folklore" ],
+    "summary" : "Atque sapiente unde nobis magnam inventore temporibus ut.Hic iste odio tempora et excepturi et.Ea suscipit natus deserunt numquam.Voluptate enim aliquam qui voluptas ut.Rem hic et et quia sint velit nulla.Atque quia enim ut.Rerum officia ne",
+    "rating" : 3.0,
+    "pageNumber" : 750
+  }, {
+    "isbn" : "9791492916894",
+    "title" : "Carrion Comfort",
+    "publicationYear" : 2017,
+    "genres" : [ "Legend" ],
+    "summary" : "Esse quis veniam.Ducimus provident commodi.Eveniet facere dolorum.Consectetur veniam maiores illo ducimus quis doloribus et.Minima quod velit ut vel quas.Quaerat ratione earum.Explicabo error perferendis.Ea explicabo aut.Inventore natus omn",
+    "rating" : 3.9,
+    "pageNumber" : 506
+  }, {
+    "isbn" : "9790045991388",
+    "title" : "Now Sleeps the Crimson Petal",
+    "publicationYear" : 2002,
+    "genres" : [ "Narrative nonfiction", "Textbook" ],
+    "summary" : "Laborum ea facere.Sunt sed tempora qui exercitationem nemo.Quia incidunt molestiae voluptas consequatur voluptatibus debitis.Quidem et est.Est et eum perspiciatis enim alias consequatur ullam.Et adipisci ducimus tempora voluptatem temporibu",
+    "rating" : 2.5,
+    "pageNumber" : 852
+  }, {
+    "isbn" : "9790051843688",
+    "title" : "A Time to Kill",
+    "publicationYear" : 2016,
+    "genres" : [ "Biography/Autobiography", "Narrative nonfiction" ],
+    "summary" : "Quia aspernatur in.In dolorum doloremque.Fuga fugiat quo ut.Similique laudantium nesciunt qui dolorem.Neque adipisci mollitia quo ea.Aut inventore repellat id ducimus et voluptates.Consequatur dolorem voluptatibus.Rerum labore distinctio po",
+    "rating" : 3.4,
+    "pageNumber" : 636
+  }, {
+    "isbn" : "9791822488879",
+    "title" : "I Sing the Body Electric",
+    "publicationYear" : 2001,
+    "genres" : [ "Western" ],
+    "summary" : "Voluptatem ut doloribus quae consectetur sed consequatur dolor.Ipsum reprehenderit quo qui.Neque velit voluptates nobis consequatur provident.Sint nesciunt ut repellat eos et consequatur et.Deleniti a et maiores delectus quos.Ea et exceptur",
+    "rating" : 4.7,
+    "pageNumber" : 807
+  }, {
+    "isbn" : "9791953862395",
+    "title" : "Where Angels Fear to Tread",
+    "publicationYear" : 2006,
+    "genres" : [ "Textbook" ],
+    "summary" : "Ipsa voluptate mollitia quae distinctio.Velit harum totam.Fugiat corrupti adipisci voluptatum accusantium ea nostrum.Facere nihil rem ipsam.Debitis impedit qui perferendis tempora.Eum fugiat adipisci molestias atque error consequatur ducimu",
+    "rating" : 4.7,
+    "pageNumber" : 749
+  }, {
+    "isbn" : "9781766430973",
+    "title" : "Noli Me Tangere",
+    "publicationYear" : 2002,
+    "genres" : [ "Speech" ],
+    "summary" : "Eos recusandae deserunt qui praesentium quo.Eum accusamus et distinctio.Minus ducimus rerum.Aut dicta aut necessitatibus amet illo consequuntur.Natus repudiandae sed et omnis hic et.Excepturi in eius ex nam fugiat minima aliquid.Doloremque ",
+    "rating" : 4.9,
+    "pageNumber" : 362
+  }, {
+    "isbn" : "9781961511637",
+    "title" : "Specimen Days",
+    "publicationYear" : 2007,
+    "genres" : [ "Folklore" ],
+    "summary" : "Est qui tempora nostrum qui pariatur in.Ad quia qui et.Sit adipisci esse.Corporis velit optio ipsum laborum dolorum.Enim aut eius iste quis modi omnis nemo.Nihil porro sunt voluptas incidunt provident molestias voluptatem.Labore dolores har",
+    "rating" : 0.7,
+    "pageNumber" : 299
+  } ]
+}

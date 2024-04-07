@@ -1,0 +1,28 @@
+plugins {
+  id "me.champeau.jmh" version "0.7.2"
+}
+
+repositories {
+  mavenCentral()
+  maven {
+    url "https://s01.oss.sonatype.org/content/repositories/snapshots/"
+  }
+}
+
+dependencies {
+  jmh platform("io.micronaut.platform:micronaut-platform:$micronautVersion")
+
+  // kestra
+  jmh "io.kestra:core:$kestraVersion"
+
+  // jackson
+  jmh "com.fasterxml.jackson.core:jackson-core:$jacksonVersion"
+  jmh "com.fasterxml.jackson.core:jackson-databind:$jacksonVersion"
+
+  // reactor
+  jmh "io.projectreactor:reactor-core:$reactorVersion"
+}
+
+jmh {
+  profilers = ['gc']
+}
