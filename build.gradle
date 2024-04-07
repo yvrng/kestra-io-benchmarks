@@ -25,4 +25,5 @@ dependencies {
 
 jmh {
   profilers = ['gc']
+  resultFormat = 'JSON'
 }
