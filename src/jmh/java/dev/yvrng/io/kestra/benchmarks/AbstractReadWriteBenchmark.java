@@ -23,8 +23,8 @@ import reactor.core.publisher.Flux;
 
 @BenchmarkMode(Mode.AverageTime)
 @OutputTimeUnit(TimeUnit.MILLISECONDS)
-@Warmup(iterations = 1, time = 60)
-@Measurement(iterations = 5, time = 60)
+@Warmup(iterations = 1, time = 10)
+@Measurement(iterations = 5, time = 10)
 @Fork(1)
 @State(value = Scope.Benchmark)
 public abstract class AbstractReadWriteBenchmark {
