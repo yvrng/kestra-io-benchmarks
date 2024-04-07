@@ -25,5 +25,6 @@ dependencies {
 
 jmh {
   profilers = ['gc']
+  jvmArgsPrepend = ['-Xms32m', '-Xmx32m']
   resultFormat = 'JSON'
 }
